@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'MyHandwriting';
+    src: url('C:\front\todo-frontend\public\fonts\QEJER.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.line-through {
+    text-decoration: line-through;
+    text-decoration-thickness: 1.5px; /* Adjust the thickness value as needed */
+  }
+  
